@@ -40,7 +40,6 @@ a:hover{
   padding-inline: 32px; /* margem lateral do container */
   max-width: 1280px; /* largura máxima da tela*/
   margin-inline: auto; /* centraliza o container */
-  background-color: var(--surface-color);
 }
 
 .bg-surface-color{
