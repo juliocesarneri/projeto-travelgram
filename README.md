@@ -1,4 +1,4 @@
-# Travelgram - Perfil de Viagens
+# 🚀 Travelgram - Perfil de Viagens
 
 Este projeto foi desenvolvido como parte do curso Full Stack da Rocketseat. O objetivo é criar uma página web que exibe o perfil de um usuário em uma rede social de viagens, chamada Travelgram.
 
